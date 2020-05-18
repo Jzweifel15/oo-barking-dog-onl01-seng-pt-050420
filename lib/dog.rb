@@ -9,7 +9,9 @@ class Dog
     @get_dogs_name
   end
   
-  
+  def bark
+    puts "Woof"
+  end
   
 end
 
